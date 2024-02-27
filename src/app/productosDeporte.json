@@ -1,0 +1,38 @@
+[
+    {
+        "id": 3,
+        "title": "Camiseta Red Bull New York York",
+        "category":"Futbol",
+        "price": 30,
+        "urlImage": "https://www.futbolemotion.com/imagesarticulos/220005/750/camiseta-adidas-red-bull-new-york-primera-equipacion-2023-2024-lucid-blue-0.webp",
+        "quantity": 1,
+        "summary": "Camiseta adidas de la primera equipación de los New York Red Bulls actualiza un diseño clásico con un llamativo estampado a rayas en zigzag. La tecnología transpirable AEROREADY mantiene la piel seca y te aporta una comodidad increíble, tanto en la grada como en la calle. "
+    },
+    {
+        "id": 4,
+        "title":"Bota Nike phanton",
+        "category":"Futbol",
+        "price": 30,
+        "urlImage":"https://www.futbolemotion.com/imagesarticulos/199042/750/bota-nike-phantom-gx-academy-fgmg-hyper-turq-black-fuchsia-dream-white-0.webp",
+        "quantity": 1,
+        "summary": "Botas sintéticas, con calcetín para utilizar en campos de hierba natural o campos de hierba artificial de última generación. Botas de gama base para jugadores de control y precisión en color Hyper Turq-Black-Fuchsia Dream-White."
+    },
+    {
+        "id": 5,
+        "title":"Guante Nike vapor grip 3",
+        "price": 30,
+        "category":"Futbol",
+        "urlImage":"https://www.futbolemotion.com/imagesarticulos/203386/750/guante-nike-vapor-grip-3-black-hyper-turquoise-rush-fuchsia-0.webp",
+        "quantity": 1,
+        "summary": "El Nike Peak Ready Pack tiñe de azul turquesa todos los guantes de los porteros de la competición Europea más importante del mundo, solo uno pocos son los afortunados que pueden formar parte de la Champions League!"
+    },
+    {
+        "id":10,
+        "title":"BUDDHA FIGHT WEAR - Guantes de Boxeo",
+        "category":"Boxeo",
+        "price":20,
+        "urlImage":"https://m.media-amazon.com/images/I/51nCkOh3QAL._SL500_.jpg",
+        "quantity":1,
+        "summary":"Fabricados con piel sintética de alta calidad, con espuma de triple densidad y una capa de látex Inteligente, tecnología GS-3, y una nueva tela Interior resistente a los olores."
+    }
+]

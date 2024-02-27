@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Muelle Align-Pilates Reformer",
+        "category":"Yoga y Pilates",
+        "price": 35,
+        "urlImage": "https://www.aerobicyfitness.com/53239-large_default/muelle-align-pilates-reformer.jpg",
+        "quantity": 1,
+        "summary": "Muelles de fino alambre coreano recubierto de níquel de alta calidad, de 47 cm compatibles con las reformers. Disponible en 4 intensidades distintas lo que permite adaptar los equipos a la intensidad deseada según el nivel del usuario."
+    },
+    {
+        "id": 2,
+        "title": "Asas Align-Pilates",
+        "category":"Yoga y Pilates",
+        "price": 35,
+        "urlImage": "https://www.aerobicyfitness.com/52101-large_default/asas-align-pilates.jpg",
+        "quantity": 1,
+        "summary": "Accesorios Align- Pilates para permitir un optimo agarre y facilitar la funcionalidad contemporánea. Confortables y dispone relleno de acolchado para mayor absorción de impactos y comodidad Se venden por pares"
+    },
+    {
+        "id": 6,
+        "title":"Mochila deportiva Under Armor",
+        "category":"Mochilas Deportivas",
+        "price":50,
+        "urlImage":"https://siman.vtexassets.com/arquivos/ids/4155696-1600-auto?v=638173702385430000&width=1600&height=auto&aspect=true",
+        "quantity": 1,
+        "summary":"La mochila Under Armor es una excelente opción para aquellos que buscan una mochila resistente y duradera para llevar consigo sus pertenencias más valiosas y mantenerlas secas en cualquier clima. "
+    },
+    {
+        "id": 7,
+        "title":"Mochila deportiva Adidas azul",
+        "category":"Mochilas Deportivas",
+        "price":50,
+        "urlImage":"https://siman.vtexassets.com/arquivos/ids/3897739-1600-auto?v=638109750719100000&width=1600&height=auto&aspect=true",
+        "quantity": 1,
+        "summary":"Muestra tu estilo de fútbol. Las 3 rayas flotantes y el logotipo de 3 barras serigrafiado en esta mochila Adidas muestran tus credenciales deportivas. Bolsillos laterales de malla. Compartimento para botas con cierre de cremallera. Fondo revestido duradero."
+    },
+    {
+        "id": 8,
+        "title":"Casco Scott ARX",
+        "category":"Ciclismo",
+        "price":25,
+        "urlImage":"https://todoparaciclismo.com/cdn/shop/files/IMG_1089-PhotoRoom_500x.png?v=1685834013",
+        "quantity": 1,
+        "summary":"Referencia ARX. Unisex. Talla M, 55- 59 centímetros. Peso 270 g. Certificado en 1078:2012. 17 entradas de ventilación."
+    },
+    {
+        "id":9,
+        "title":"Banda Monitor Cardiaco Meilan HRM ANT-BLE 4.0",
+        "category":"Ciclismo",
+        "price":25,
+        "urlImage":"https://puromtb.com/cdn/shop/files/BA01000-505.png?v=1702904216",
+        "quantity":1,
+        "summary":"Sensores de velocidad cadencia ligeros de aproximadamente 13 g. Perfecto para bicicleta de spinning o uso con varias bicicletas."
+    }
+]
